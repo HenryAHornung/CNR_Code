@@ -1,6 +1,6 @@
 # CNR_Code
 
-This repository contains the data, code and figures for **Introducing CNR: A Novel Method for the Distant Reading of Chordal Harmony**
+This repository contains the data, code and figures for **Introducing CNR: A Novel Method for the Distant Reading of Chordal Harmony**. For explanations of the code, please refer to the research paper itself.
 
 ### Contents of this repository:
 - **ireal.html** (Contains the jazz 1460 playlist including the link to import it into iReal Pro/decode it using PyRealParser.)
